@@ -169,11 +169,6 @@
     
 </form>
 
-
-<div class="alert alert-info">
-    <strong>tutorial link !</strong> <a href="http://www.codingcage.com/2016/02/upload-insert-update-delete-image-using.html">Coding Cage</a>!
-</div>
-
 </div>
 </body>
 </html>
